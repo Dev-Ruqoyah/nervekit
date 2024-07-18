@@ -3,6 +3,7 @@ import Header from "./Pages/Header";
 import HeroSection from './Pages/Herosection';
 import About from './Pages/aboutsection';
 import Vision from './Pages/visionsection';
+import Offer from './Pages/offersection';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         <HeroSection/>
         <About/>
         <Vision/>
+        <Offer/>
       </Router>
     </div>
   );
