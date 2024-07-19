@@ -5,7 +5,7 @@ const Offer = () =>{
     return(
     <>
     
-        <section className='h-screen text-white'>
+        <section className=' text-white'>
             <div className="container mx-auto py-10">
             <Pheader header1={"What we offer"}  detail= {"Getting you back in shape"}/>
                 <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-5 mt-5">
